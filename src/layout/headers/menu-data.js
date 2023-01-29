@@ -1,10 +1,9 @@
 const menu_data = [
   {
     title: "Ana Səhifə",
-    link: "#",
+    link: "/",
     mega_menu: false,
-    submenus: [
-    ],
+    submenus: [],
   },
   {
     title: "Səhifələr",
@@ -14,7 +13,7 @@ const menu_data = [
       {
         mega_submenu: [
           { title: "Haqqımızda", link: "/about-2" },
-          { title: "Müəllimlər", link: "/team-3" },
+          { title: "Müəllimlər", link: "/team-2" },
           { title: "Ödəniş", link: "/pricing-table" },
           { title: "Tədbirlər", link: "/event-grid" },
           { title: "Tezliklə", link: "/coming-soon" },
@@ -24,7 +23,7 @@ const menu_data = [
     ],
     mobile_pages_menu: [
       { title: "Haqqımızda", link: "/about-2" },
-      { title: "Müəllimlər", link: "/team-3" },
+      { title: "Müəllimlər", link: "/team-2" },
       { title: "Ən çox verilən suallar", link: "/faq" },
       { title: "Tezliklə", link: "/coming-soon" },
       { title: "Tədbirlər", link: "/event-grid" },
@@ -34,15 +33,13 @@ const menu_data = [
     title: "Kurslar",
     link: "#",
     mega_menu: false,
-    submenus: [
-    ],
+    submenus: [],
   },
   {
     title: "Əlaqə",
-    link: "#",
+    link: "/contact-us",
     mega_menu: false,
     submenus: [
-      { title: "Bizimlə əlaqə", link: "/contact-us" },
     ],
   },
 ];

@@ -14,6 +14,7 @@ const index = () => {
                 <ContactUsArea/>
                 <ContactMap/>
                 <Footer style_2={'footer-dark bg-image footer-style-2'} />
+        
             </div>
         </div>
     )
