@@ -29,13 +29,6 @@ const HeaderTwo = ({ style_3, no_topBar = false }) => {
                                     </ul>
                                 </div>
 
-                                <div className="header-top-right">
-                                    <ul className="header-info">
-                                        <li><Link href="/sign-in"><a>Daxil ol</a></Link></li>
-                                        <li><Link href="/sign-in"><a>Qeydiyyatdan keç</a></Link></li>
-                                        <li className="header-btn"><a href="#" className={`edu-btn ${style_3 ? '' : 'btn-secondary'} btn-medium`}>Apply Now <i className="icon-4"></i></a></li>
-                                    </ul>
-                                </div>
                             </div>
                         </div>
                     </div>

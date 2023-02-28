@@ -11,8 +11,6 @@ const social_share = [
 const HeaderTopRight = () => {
     return (
         <ul className="header-info">
-            <li><Link href="/sign-in"><a>Daxil ol</a></Link></li>
-            <li><Link href="/sign-in"><a>Qeydiyyatdan keç</a></Link></li>
             <li><a href="tel:+011235641231"><i className="icon-phone"></i>Call: +994559567868</a></li>
             <li><a href="mailto:info@edublink.com" rel="noreferrer" target="_blank"><i className="icon-envelope"></i>Email: alasacademy@gmail.com</a></li>
             <li className="social-icon">

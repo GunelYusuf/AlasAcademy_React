@@ -35,10 +35,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/contact-us.js"
     ],
-    "/sign-in": [
+    "/course-style-1": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/sign-in.js"
+      "static/chunks/pages/course-style-1.js"
     ]
   },
   "ampFirstPages": []
